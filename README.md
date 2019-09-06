@@ -7,13 +7,10 @@
 
 ## George Guzman
 
-### Assignment # Requirements:
+### LIS 4381 Requirements:
 
-*Sub-Heading:*
-
-1. Ordered-list items
-2. 
-3. 
+*Coursework Links*
+![1. ](a1/README.md)
 
 #### README.md file should include the following items:
 

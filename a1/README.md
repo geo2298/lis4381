@@ -1,19 +1,14 @@
-> **NOTE:** This README.md file should be placed at the **root of each of your repos directories.**
->
->Also, this file **must** use Markdown syntax, and provide project documentation as per below--otherwise, points **will** be deducted.
->
-
 # LIS 4381 - Mobile Web App Solutions
 
 ## George Guzman
 
-### Assignment # Requirements:
+### Assignment 1 Requirements:
 
-*Sub-Heading:*
+*Three Parts:*
 
-1. Ordered-list items
-2. 
-3. 
+1. Distributed Version Control with Git and Bitbucket
+2. Development Installations
+3. Chapter Questions (Chapters 1 & 2)
 
 #### README.md file should include the following items:
 
