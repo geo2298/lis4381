@@ -10,7 +10,8 @@
 ### LIS 4381 Requirements:
 
 *Coursework Links*
-[1. ](https://bitbucket.org/geo2298/lis4381/src/master/a1/"A1 README.md")
+
+[1. A1 README.md](https://bitbucket.org/geo2298/lis4381/src/master/a1/)
 
 #### README.md file should include the following items:
 
