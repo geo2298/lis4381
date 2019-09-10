@@ -14,9 +14,9 @@
 
 1. [ A1 README.md](https://bitbucket.org/geo2298/lis4381/src/master/a1/)
 
-* Bullet-list items
-* 
-* 
+    * Bullet-list items
+    * 
+        * 
 * 
 
 > This is a blockquote.
