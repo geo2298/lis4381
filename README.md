@@ -12,46 +12,42 @@
 *Coursework Links*
 
 
-1. [ A1 README.md](https://bitbucket.org/geo2298/lis4381/src/master/a1/)
+1. [A1 README.md](https://bitbucket.org/geo2298/lis4381/src/master/a1/)
 
-    * Bullet-list items
-    * 
-        * 
-* 
+    * Install AMPPS
+    * Install JDK
+    * Install Android Studio and create My First App
+    * Provide screenshots of installations
+    * Create Bitbucket repo
+    * Complete Bitbucket tutorials (bitbucketstationlocations)
+    * Provide git command descriptions
 
-> This is a blockquote.
-> 
-> This is the second paragraph in the blockquote.
->
-> #### Git commands w/short descriptions:
+2. [A2 README.md](https://bitbucket.org/geo2298/lis4381/src/master/a2/)
 
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
+    *
+    *
 
-#### Assignment Screenshots:
+3. [A3 README.md](https://bitbucket.org/geo2298/lis4381/src/master/a3/)
 
-*Screenshot of AMPPS running http://localhost*:
+    *
+    *
 
-![AMPPS Installation Screenshot](img/ampps.png)
+4. [A4 README.md](https://bitbucket.org/geo2298/lis4381/src/master/a4/)
 
-*Screenshot of running java Hello*:
+    *
+    *
 
-![JDK Installation Screenshot](img/jdk_install.png)
+5. [A5 README.md](https://bitbucket.org/geo2298/lis4381/src/master/a5/)
 
-*Screenshot of Android Studio - My First App*:
+    *
+    *
 
-![Android Studio Installation Screenshot](img/android.png)
+6. [P1 README.md](https://bitbucket.org/geo2298/lis4381/src/master/p1/)
 
+    *
+    *
 
-#### Tutorial Links:
+7. [P2 README.md](https://bitbucket.org/geo2298/lis4381/src/master/p2/)
 
-*Bitbucket Tutorial - Station Locations:*
-[A1 Bitbucket Station Locations Tutorial Link](https://bitbucket.org/geo2298/bitbucketstationlocations/ "Bitbucket Station Locations")
-
-*Tutorial: Request to update a teammate's repository:*
-[A1 My Team Quotes Tutorial Link](https://bitbucket.org/username/myteamquotes/ "My Team Quotes Tutorial")
+    *
+    *
