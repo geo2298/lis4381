@@ -17,8 +17,8 @@
 * Screenshot of running Android Studio - My First App
 * Git commands with short descriptions
 * Bitbucket repo links:
-    a) this assignment
-    b) completed tutorial (bitbucketstationlocations)
+    * this assignment
+    * completed tutorial (bitbucketstationlocations)
 
 > This is a blockquote.
 > 
