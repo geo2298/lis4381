@@ -2,7 +2,7 @@
 
 ## George Guzman
 
-### Assignment 1 Requirements:
+### Assignment 2 Requirements:
 
 *Two Parts:*
 
