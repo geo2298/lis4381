@@ -24,8 +24,9 @@
 
 2. [A2 README.md](https://bitbucket.org/geo2298/lis4381/src/master/a2/)
 
-    *
-    *
+    * Create a running application on Android Studio
+    * Ensured that the application was able to run two activities
+    * Change the background color of the application
 
 3. [A3 README.md](https://bitbucket.org/geo2298/lis4381/src/master/a3/)
 
