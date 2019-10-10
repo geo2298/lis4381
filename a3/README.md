@@ -28,7 +28,7 @@
 
 *Screenshot of the first screen of the application*:
 
-![mySQL Tables](images/a3.png)
+![mySQL Tables](images/erd.png)
 
 *Screenshot of the first screen of the application*:
 
@@ -41,5 +41,5 @@
 
 #### Links to Files:
 
-[a3.mwb](a3.mwb)
-[a3.sql](a3.sql)
+* [a3.mwb](a3.mwb)
+* [a3.sql](a3.sql)
