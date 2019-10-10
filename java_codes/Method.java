@@ -11,8 +11,7 @@ public class Method
   }
 
   static String myValueReturningMethod(String fname, int age){
-    String sentence = String.format("%s is %d", fname, age);
-    return sentence;
+    return fname + " is " + age;
   }
 
    public static void main(String[] args)
