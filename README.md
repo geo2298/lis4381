@@ -30,8 +30,14 @@
 
 3. [A3 README.md](https://bitbucket.org/geo2298/lis4381/src/master/a3/)
 
-    *
-    *
+    * Create an ERD using mySQL and insert 10 records
+    * Forward engineer the created tables into an SQL script to ensure proper insertion of records
+    * Create an application that will calculate the prices of different concert tickets
+    * Utilized the XML script to place widgets rather than dragging and dropping
+    * Added a launcher icon to the application
+    * Changed background color
+    * Added a drop shadow to the text of the button
+    * Added a border to the button and the image
 
 4. [A4 README.md](https://bitbucket.org/geo2298/lis4381/src/master/a4/)
 
