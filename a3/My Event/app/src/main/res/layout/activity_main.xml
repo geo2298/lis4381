@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#460416"
+    android:paddingLeft="16dp"
+    android:paddingTop="16dp"
+    android:paddingRight="16dp"
+    android:paddingBottom="16dp"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/txtTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="24dp"
+        android:text="@string/txtTitle"
+        android:textSize="48sp" />
+
+
+    <EditText
+        android:id="@+id/txtTickets"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtTitle"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginTop="26dp"
+        android:ems="10"
+        android:hint="Number of Tickets"
+        android:inputType="numberSigned"
+        android:textSize="36sp" />
+
+
+    <Spinner
+        android:id="@+id/txtGroup"
+        android:layout_width="358dp"
+        android:layout_height="78dp"
+        android:layout_below="@+id/txtTickets"
+        android:layout_alignParentLeft="true"
+        android:entries="@array/txtGroup"
+        android:prompt="@string/prompt"
+        android:spinnerMode="dialog" />
+
+    <Button
+        android:id="@+id/btnCost"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtGroup"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/button_border"
+        android:text="@string/btnCost"
+        android:textSize="38sp"
+        android:shadowColor="#000000"
+        android:shadowDx="3"
+        android:shadowDy="3"
+        android:shadowRadius="1.5" />/>
+
+    <EditText
+        android:id="@+id/txtResult"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/btnCost"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:id="@+id/imgConcert"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txtResult"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="12dp"
+        android:padding="5dp"
+        android:background="#D40C00"
+        android:contentDescription="@string/description"
+        android:src="@drawable/concert" />
+
+</RelativeLayout>
