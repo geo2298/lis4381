@@ -30,21 +30,12 @@
 
 ![mySQL Tables](images/erd.png)
 
-*Screenshot of the first screen of the application*:
-
-![First Activity](images/activity1.png)
-
-*Screenshot of the second screen of the application*:
-
-![Second Activity](images/activity2.png)
-
+| *First Screenshot of Activity* | *Second Screenshot of Activity* |
+| ----------------- | ----------------- |
+|![First Activity](images/activity1.png)      | ![Second Activity](images/activity2.png)      |
 
 #### Links to Files:
 
 * [a3.mwb](a3.mwb)
 * [a3.sql](a3.sql)
 
-| First Screenshot  | Second Screenshot |
-| ----------------- | ----------------- |
-|![Second Activity](images/activity2.png)      | ![Second Activity](images/activity2.png)      |
-| Content Cell      | Content Cell      |
