@@ -43,3 +43,8 @@
 
 * [a3.mwb](a3.mwb)
 * [a3.sql](a3.sql)
+
+| First Screenshot  | Second Screenshot |
+| ----------------- | ----------------- |
+|![Second Activity](images/activity2.png)      | ![Second Activity](images/activity2.png)      |
+| Content Cell      | Content Cell      |
