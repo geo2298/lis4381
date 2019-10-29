@@ -51,8 +51,12 @@
 
 6. [P1 README.md](https://bitbucket.org/geo2298/lis4381/src/master/p1/)
 
-    *
-    *
+    * Created two activities and link them together 
+    * Utilized the XML script to place widgets rather than dragging and dropping
+    * Added a launcher icon to the application
+    * Changed background color
+    * Added a drop shadow to the text of the button
+    * Added a border to the button and the image
 
 7. [P2 README.md](https://bitbucket.org/geo2298/lis4381/src/master/p2/)
 
