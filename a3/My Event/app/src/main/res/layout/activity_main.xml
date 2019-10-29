@@ -9,6 +9,7 @@
     android:paddingTop="16dp"
     android:paddingRight="16dp"
     android:paddingBottom="16dp"
+
     tools:context=".MainActivity">
 
     <TextView
@@ -58,7 +59,7 @@
         android:shadowColor="#000000"
         android:shadowDx="3"
         android:shadowDy="3"
-        android:shadowRadius="1.5" />/>
+        android:shadowRadius="1.5" />
 
     <EditText
         android:id="@+id/txtResult"

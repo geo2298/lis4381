@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="txtTitle">George Guzman</string>
+    <string name="btnNext">DETAILS</string>
+    <string name="imgDescription">Photo of George</string>
+    <string name="txtSub">Contact</string>
+    <string name="school">Florida State University</string>
+    <string name="email">gg17@my.fsu.edu</string>
+    <string name="phone">(561) 402-0960</string>
+    <string name="txtSub2">Interests</string>
+    <string name="Interests">Programming, Watching Netflix, Sleeping, UX Design, Graphic Design, Photography</string>
+</resources>
