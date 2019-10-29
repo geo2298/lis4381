@@ -25,5 +25,5 @@
 
 | *First Screenshot of Activity* | *Second Screenshot of Activity* |
 | ----------------- | ----------------- |
-|![First Activity](img/p1.png)      | ![Second Activity](img/p2.png)      |
+|![First Activity](img/p2.png)      | ![Second Activity](img/p1.png)      |
 
