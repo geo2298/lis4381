@@ -23,9 +23,11 @@
 #### Assignment Screenshots:
 
 
+*Screenshot of Carousel*:
 
+![Carousel](img/carousel.png)
 
 | *Fully Validated Form* | *Not Validated Form* |
 | ----------------- | ----------------- |
-|![Validated](img/p2.png)      | ![Not Validated](img/p1.png)      |
+|![Validated](img/yes.png)      | ![Not Validated](img/no.png)      |
 
