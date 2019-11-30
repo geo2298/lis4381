@@ -2,28 +2,40 @@
 
 ## George Guzman
 
-### Assignment 5 Requirements:
+### Project 2 Requirements:
 
 *Two Parts:*
 
 1. Create a web application that will
     * Create a form that can validate
-    * Utilize server-side validation
-2. Chapter Questions (Chapter 11, 12, & 19)
+    * Utilize PHP server-side validation
+        * Include prepared statements to prevent SQL injection
+    * Adding edit/delete functionality to the Pet Store form      
+2. Chapter Questions (Chapter 13 & 14)
 
 #### README.md file should include the following items:
 
-* Screenshot of the SQL feature of the website
-* Screenshot of the error page
+* Screenshot of the edit page that includes a working update button at the botton
+* Screenshot of the error page that will display what field needs to be fixed
+* Screenshot of the working carousel displaying information about me
+* Screenshot of a working RSS that displays accurate and updated information including date and time
 
 
 #### Assignment Screenshots:
 
 
-*Screenshot of Pet Stores*:
+*Screenshot of the form editing*:
 
-![Home Page](img/home.png)
+![Edit](img/edit.png)
 
-*Screenshot of Error*:
+*Screenshot of error page*:
 
-![Home Page](img/error.png)
+![Error](img/error.png)
+
+*Screenshot of the carousel page*:
+
+![Carousel](img/carousel.png)
+
+*Screenshot of the RSS page*:
+
+![RSS](img/rss.png)
