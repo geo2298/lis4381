@@ -41,13 +41,16 @@
 
 4. [A4 README.md](https://bitbucket.org/geo2298/lis4381/src/master/a4/)
 
-    *
-    *
+    * Create a web application that will utilize a Bootstrap Carousel 
+    * Create a form that can validate
+    * Include pages to other projects on the localhost site
+    * Utilize the local repository
 
 5. [A5 README.md](https://bitbucket.org/geo2298/lis4381/src/master/a5/)
 
-    *
-    *
+    * Create a web application that will create a form that can validate
+    * Utilize server-side validation rather than client-side validation
+    * Add additional records to an existing database
 
 6. [P1 README.md](https://bitbucket.org/geo2298/lis4381/src/master/p1/)
 
@@ -60,5 +63,7 @@
 
 7. [P2 README.md](https://bitbucket.org/geo2298/lis4381/src/master/p2/)
 
-    *
-    *
+    * Create a web application that will create a form that can validate
+    * Utilize PHP server-side validation
+    * Include prepared statements to prevent SQL injection
+    * Adding edit/delete functionality to the Pet Store form
